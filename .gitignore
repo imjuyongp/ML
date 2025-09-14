@@ -1,0 +1,9 @@
+venvs/
+.DS_Store
+.python-version
+venv/
+venvs/
+.venv/
+__pycache__/
+.DS_Store
+.python-version
