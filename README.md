@@ -10,5 +10,6 @@ Machine Learning/
  ├─ src/            ← 파이썬 코드 (x)
  └─ requirements.txt
 ```
+- python3 -m venv ML 로 가상환경 생성
 - 가상환경 활성화
    - source venvs/ML/bin/activate
