@@ -13,3 +13,6 @@ Machine Learning/
 - python3 -m venv ML 로 가상환경 생성
 - 가상환경 활성화
    - source venvs/ML/bin/activate
+ 
+### GPU 사용하기
+- https://colab.google/notebooks/#aiml
